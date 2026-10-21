@@ -1,0 +1,29 @@
+# ── Financial News Intelligence Platform ─────────────────────────
+# Core
+fastapi
+uvicorn[standard]
+sqlalchemy
+apscheduler
+
+# Scraping
+beautifulsoup4
+requests
+lxml
+
+# Data Processing
+pandas
+rapidfuzz
+
+# NLP
+spacy
+
+# Export
+openpyxl
+reportlab
+
+# Dashboard
+streamlit
+plotly
+
+# AI Summary (optional — only needed if GEMINI_API_KEY is set)
+# google-generativeai
